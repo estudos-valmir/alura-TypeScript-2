@@ -1,2 +1,2 @@
-# alura-TypeScript-1
+# alura-TypeScript-2
 Repositório para estudos do TypeScript
