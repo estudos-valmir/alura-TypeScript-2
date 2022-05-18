@@ -80,7 +80,8 @@ typings/
 
 # Nuxt.js build / generate output
 .nuxt
-dist
+
+dist/*
 
 # Gatsby files
 .cache/
@@ -106,3 +107,7 @@ dist
 
 /node_modules
 /servidor-api/node_modules
+
+
+!dist/css
+!dis/index.html
