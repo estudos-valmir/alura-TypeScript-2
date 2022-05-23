@@ -110,4 +110,4 @@ dist/*
 
 
 !dist/css
-!dis/index.html
+!dist/index.html
